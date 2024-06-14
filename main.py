@@ -5,7 +5,7 @@ import telebot, threading
 from telebot import types
 from timeit import default_timer as timer
 from fake_email import Email
-admin = 1566020530 #ايدي المالك
+admin = 7464592789 #ايدي المالك
 
 chat_id = "BWDBA" #يوزر القناة بدون @
 
